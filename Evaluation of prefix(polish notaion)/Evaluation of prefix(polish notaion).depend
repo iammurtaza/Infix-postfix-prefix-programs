@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1471264167 source:c:\users\asus\downloads\murtaza\c++\infix prefix postfix\evaluation of prefix(polish notaion)\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<math.h>
+

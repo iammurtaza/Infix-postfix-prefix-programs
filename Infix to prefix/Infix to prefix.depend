@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1471281765 source:c:\users\asus\downloads\murtaza\c++\infix prefix postfix\infix to prefix\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<algorithm>
+

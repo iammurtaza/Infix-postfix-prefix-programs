@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471252809 source:c:\users\asus\downloads\murtaza\c++\infix prefix postfix\evaluation of postfix(reverse polish notation)\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
